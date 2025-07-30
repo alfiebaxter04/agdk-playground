@@ -1,0 +1,3 @@
+/usr/local/google/home/alfiebaxter/AndroidStudioProjects/BouncyBall/app/.cxx/Debug/724t596r/x86/CMakeFiles/bouncyball.dir
+/usr/local/google/home/alfiebaxter/AndroidStudioProjects/BouncyBall/app/.cxx/Debug/724t596r/x86/CMakeFiles/edit_cache.dir
+/usr/local/google/home/alfiebaxter/AndroidStudioProjects/BouncyBall/app/.cxx/Debug/724t596r/x86/CMakeFiles/rebuild_cache.dir

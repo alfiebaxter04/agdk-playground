@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/usr/local/google/home/alfiebaxter/AndroidStudioProjects/BouncyBall/app/.cxx/Debug/724t596r/x86",
+  "command": "/usr/local/google/home/alfiebaxter/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android34 --sysroot=/usr/local/google/home/alfiebaxter/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dbouncyball_EXPORTS -isystem /usr/local/google/home/alfiebaxter/.gradle/caches/8.13/transforms/e2091bd4f7e9994983b89a1b48247dfd/transformed/games-activity-1.2.2/prefab/modules/game-activity/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/bouncyball.dir/main.cpp.o -c /usr/local/google/home/alfiebaxter/AndroidStudioProjects/BouncyBall/app/src/main/cpp/main.cpp",
+  "file": "/usr/local/google/home/alfiebaxter/AndroidStudioProjects/BouncyBall/app/src/main/cpp/main.cpp"
+},
+{
+  "directory": "/usr/local/google/home/alfiebaxter/AndroidStudioProjects/BouncyBall/app/.cxx/Debug/724t596r/x86",
+  "command": "/usr/local/google/home/alfiebaxter/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android34 --sysroot=/usr/local/google/home/alfiebaxter/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dbouncyball_EXPORTS -isystem /usr/local/google/home/alfiebaxter/.gradle/caches/8.13/transforms/e2091bd4f7e9994983b89a1b48247dfd/transformed/games-activity-1.2.2/prefab/modules/game-activity/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/bouncyball.dir/AndroidOut.cpp.o -c /usr/local/google/home/alfiebaxter/AndroidStudioProjects/BouncyBall/app/src/main/cpp/AndroidOut.cpp",
+  "file": "/usr/local/google/home/alfiebaxter/AndroidStudioProjects/BouncyBall/app/src/main/cpp/AndroidOut.cpp"
+},
+{
+  "directory": "/usr/local/google/home/alfiebaxter/AndroidStudioProjects/BouncyBall/app/.cxx/Debug/724t596r/x86",
+  "command": "/usr/local/google/home/alfiebaxter/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android34 --sysroot=/usr/local/google/home/alfiebaxter/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dbouncyball_EXPORTS -isystem /usr/local/google/home/alfiebaxter/.gradle/caches/8.13/transforms/e2091bd4f7e9994983b89a1b48247dfd/transformed/games-activity-1.2.2/prefab/modules/game-activity/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/bouncyball.dir/Renderer.cpp.o -c /usr/local/google/home/alfiebaxter/AndroidStudioProjects/BouncyBall/app/src/main/cpp/Renderer.cpp",
+  "file": "/usr/local/google/home/alfiebaxter/AndroidStudioProjects/BouncyBall/app/src/main/cpp/Renderer.cpp"
+},
+{
+  "directory": "/usr/local/google/home/alfiebaxter/AndroidStudioProjects/BouncyBall/app/.cxx/Debug/724t596r/x86",
+  "command": "/usr/local/google/home/alfiebaxter/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android34 --sysroot=/usr/local/google/home/alfiebaxter/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dbouncyball_EXPORTS -isystem /usr/local/google/home/alfiebaxter/.gradle/caches/8.13/transforms/e2091bd4f7e9994983b89a1b48247dfd/transformed/games-activity-1.2.2/prefab/modules/game-activity/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/bouncyball.dir/Shader.cpp.o -c /usr/local/google/home/alfiebaxter/AndroidStudioProjects/BouncyBall/app/src/main/cpp/Shader.cpp",
+  "file": "/usr/local/google/home/alfiebaxter/AndroidStudioProjects/BouncyBall/app/src/main/cpp/Shader.cpp"
+},
+{
+  "directory": "/usr/local/google/home/alfiebaxter/AndroidStudioProjects/BouncyBall/app/.cxx/Debug/724t596r/x86",
+  "command": "/usr/local/google/home/alfiebaxter/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android34 --sysroot=/usr/local/google/home/alfiebaxter/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dbouncyball_EXPORTS -isystem /usr/local/google/home/alfiebaxter/.gradle/caches/8.13/transforms/e2091bd4f7e9994983b89a1b48247dfd/transformed/games-activity-1.2.2/prefab/modules/game-activity/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/bouncyball.dir/TextureAsset.cpp.o -c /usr/local/google/home/alfiebaxter/AndroidStudioProjects/BouncyBall/app/src/main/cpp/TextureAsset.cpp",
+  "file": "/usr/local/google/home/alfiebaxter/AndroidStudioProjects/BouncyBall/app/src/main/cpp/TextureAsset.cpp"
+},
+{
+  "directory": "/usr/local/google/home/alfiebaxter/AndroidStudioProjects/BouncyBall/app/.cxx/Debug/724t596r/x86",
+  "command": "/usr/local/google/home/alfiebaxter/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android34 --sysroot=/usr/local/google/home/alfiebaxter/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dbouncyball_EXPORTS -isystem /usr/local/google/home/alfiebaxter/.gradle/caches/8.13/transforms/e2091bd4f7e9994983b89a1b48247dfd/transformed/games-activity-1.2.2/prefab/modules/game-activity/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/bouncyball.dir/Utility.cpp.o -c /usr/local/google/home/alfiebaxter/AndroidStudioProjects/BouncyBall/app/src/main/cpp/Utility.cpp",
+  "file": "/usr/local/google/home/alfiebaxter/AndroidStudioProjects/BouncyBall/app/src/main/cpp/Utility.cpp"
+}
+]
