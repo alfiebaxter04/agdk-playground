@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/usr/local/google/home/alfiebaxter/AndroidStudioProjects/agdk-playground/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/usr/local/google/home/alfiebaxter/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/usr/local/google/home/alfiebaxter/AndroidStudioProjects/agdk-playground/app/.cxx/Debug/724t596r/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/usr/local/google/home/alfiebaxter/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/usr/local/google/home/alfiebaxter/AndroidStudioProjects/agdk-playground/app/.cxx/Debug/724t596r/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "bouncyball::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "bouncyball",
+      "output": "/usr/local/google/home/alfiebaxter/AndroidStudioProjects/agdk-playground/app/build/intermediates/cxx/Debug/724t596r/obj/arm64-v8a/libbouncyball.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/usr/local/google/home/alfiebaxter/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/usr/local/google/home/alfiebaxter/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,11 @@
+# ninja log v5
+0	44	1754093252400093580	CMakeFiles/bouncyball.dir/Renderer.cpp.o	acde0d38d1cc3487
+0	44	1754092882674960409	CMakeFiles/bouncyball.dir/main.cpp.o	6accebc05578cd10
+1	811	1753888449568894998	CMakeFiles/bouncyball.dir/Utility.cpp.o	34b07e0928fbc0fa
+1	884	1753888449644896052	CMakeFiles/bouncyball.dir/Shader.cpp.o	60909452c82e466
+44	70	1754093252424093913	/usr/local/google/home/alfiebaxter/AndroidStudioProjects/agdk-playground/app/build/intermediates/cxx/Debug/724t596r/obj/arm64-v8a/libbouncyball.so	8759c59554cbbd27
+1	836	1753888449596895386	CMakeFiles/bouncyball.dir/TextureAsset.cpp.o	efb46a6ae975abc8
+0	806	1753888449564894942	CMakeFiles/bouncyball.dir/AndroidOut.cpp.o	eed45128a5cfa0ac
+0	43	1754093527599912803	CMakeFiles/bouncyball.dir/main.cpp.o	6accebc05578cd10
+1	46	1754093527603912859	CMakeFiles/bouncyball.dir/Renderer.cpp.o	acde0d38d1cc3487
+46	72	1754093527627913191	/usr/local/google/home/alfiebaxter/AndroidStudioProjects/agdk-playground/app/build/intermediates/cxx/Debug/724t596r/obj/arm64-v8a/libbouncyball.so	8759c59554cbbd27

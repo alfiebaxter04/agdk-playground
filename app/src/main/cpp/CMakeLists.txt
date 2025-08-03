@@ -9,11 +9,7 @@ project("bouncyball")
 # one used for loading in your Kotlin/Java or AndroidManifest.txt files.
 add_library(bouncyball SHARED
         main.cpp
-        AndroidOut.cpp
-        Renderer.cpp
-        Shader.cpp
-        TextureAsset.cpp
-        Utility.cpp)
+        Renderer.cpp)
 
 # Searches for a package provided by the game activity dependency
 find_package(game-activity REQUIRED CONFIG)
@@ -30,3 +26,6 @@ target_link_libraries(bouncyball
         jnigraphics
         android
         log)
+
+set(CMAKE_SHARED_LINKER_FLAGS
+        "${CMAKE_SHARED_LINKER_FLAGS} -u Java_com_google_androidgamesdk_GameActivity_initializeNativeCode")

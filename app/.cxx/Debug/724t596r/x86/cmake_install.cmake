@@ -1,4 +1,4 @@
-# Install script for directory: /usr/local/google/home/alfiebaxter/AndroidStudioProjects/BouncyBall/app/src/main/cpp
+# Install script for directory: /usr/local/google/home/alfiebaxter/AndroidStudioProjects/agdk-playground/app/src/main/cpp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/usr/local/google/home/alfiebaxter/AndroidStudioProjects/BouncyBall/app/.cxx/Debug/724t596r/x86/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/usr/local/google/home/alfiebaxter/AndroidStudioProjects/agdk-playground/app/.cxx/Debug/724t596r/x86/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
